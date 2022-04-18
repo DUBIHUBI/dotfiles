@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hubert12161999@gmail.com
+	name = Hubert Yu
